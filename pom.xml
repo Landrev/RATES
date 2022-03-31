@@ -43,7 +43,7 @@
 
         <!--dependencies properties-->
         <aws.sdk2.version>2.11.8</aws.sdk2.version>
-        <spring-boot.version>2.3.1.RELEASE</spring-boot.version>
+        <spring-boot.version>2.5.12</spring-boot.version>
         <spring-boot-maven-plugin.version>2.3.1.RELEASE</spring-boot-maven-plugin.version>
         <reactor-core.version>3.3.7.RELEASE</reactor-core.version>
         <jaxb-api.version>2.3.1</jaxb-api.version>
