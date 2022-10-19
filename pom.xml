@@ -47,7 +47,7 @@
         <spring-boot-maven-plugin.version>2.3.1.RELEASE</spring-boot-maven-plugin.version>
         <reactor-core.version>3.3.7.RELEASE</reactor-core.version>
         <jaxb-api.version>2.3.1</jaxb-api.version>
-        <jackson.version>2.10.3</jackson.version>
+        <jackson.version>2.13.4.1</jackson.version>
         <lombok.version>1.18.12</lombok.version>
         <vavr.version>1.0.0-alpha-3</vavr.version>
         <commons-lang3.version>3.10</commons-lang3.version>
